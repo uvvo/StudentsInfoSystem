@@ -1,0 +1,12 @@
+C:\Users\Menor\source\repos\Members Info\bin\Debug\Members Info.exe.config
+C:\Users\Menor\source\repos\Members Info\bin\Debug\Members Info.exe
+C:\Users\Menor\source\repos\Members Info\bin\Debug\Members Info.pdb
+C:\Users\Menor\source\repos\Members Info\bin\Debug\Members Info.xml
+C:\Users\Menor\source\repos\Members Info\obj\Debug\Members Info.vbproj.AssemblyReference.cache
+C:\Users\Menor\source\repos\Members Info\obj\Debug\Members_Info.Form1.resources
+C:\Users\Menor\source\repos\Members Info\obj\Debug\Members_Info.Resources.resources
+C:\Users\Menor\source\repos\Members Info\obj\Debug\Members Info.vbproj.GenerateResource.cache
+C:\Users\Menor\source\repos\Members Info\obj\Debug\Members Info.vbproj.CoreCompileInputs.cache
+C:\Users\Menor\source\repos\Members Info\obj\Debug\Members Info.exe
+C:\Users\Menor\source\repos\Members Info\obj\Debug\Members Info.xml
+C:\Users\Menor\source\repos\Members Info\obj\Debug\Members Info.pdb
